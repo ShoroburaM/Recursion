@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{499E95F4-9F97-4C2A-A6E6-158E1B10E4FE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonachi", "Fibonachi\Fibonachi.csproj", "{93C6C428-EAC1-4E65-B1B1-4147C6A27EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prime", "prime\prime.csproj", "{09EF3B3A-823A-4BA2-B95D-8AEB5C6F477B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499E95F4-9F97-4C2A-A6E6-158E1B10E4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499E95F4-9F97-4C2A-A6E6-158E1B10E4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499E95F4-9F97-4C2A-A6E6-158E1B10E4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499E95F4-9F97-4C2A-A6E6-158E1B10E4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C6C428-EAC1-4E65-B1B1-4147C6A27EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C6C428-EAC1-4E65-B1B1-4147C6A27EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C6C428-EAC1-4E65-B1B1-4147C6A27EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C6C428-EAC1-4E65-B1B1-4147C6A27EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EF3B3A-823A-4BA2-B95D-8AEB5C6F477B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EF3B3A-823A-4BA2-B95D-8AEB5C6F477B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EF3B3A-823A-4BA2-B95D-8AEB5C6F477B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EF3B3A-823A-4BA2-B95D-8AEB5C6F477B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B086994F-0AA5-43CF-87C5-84E2649E4DF5}
+	EndGlobalSection
+EndGlobal
